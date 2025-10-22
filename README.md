@@ -1,10 +1,10 @@
-# KTds6
+# KTds7
 
 
 
 MVP 
 
-작업이 끝나신 분들은 이 링크의 폼을 작성해 주세요 
+MVP 프로젝트 제안서 제출 링크 
 [http://forms.office.com/r/kpkXWxYMmS](http://forms.office.com/r/kpkXWxYMmS)
 
 # 평가 기준
