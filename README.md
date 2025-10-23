@@ -7,6 +7,8 @@ MVP
 MVP 프로젝트 제안서 제출 링크 
 [http://forms.office.com/r/kpkXWxYMmS](http://forms.office.com/r/kpkXWxYMmS)
 
+[Git 강좌](https://www.youtube.com/watch?v=JZJQ4_8XoPM&list=PLHF1wYTaCuixewA1hAn8u6hzx5mNenAGM)
+
 # 평가 기준
 | 평가 항목           | 설명                                                                                                                                                             | 배점 |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|------|
