@@ -10,15 +10,15 @@ MVP
 |09:00~10:40|||발표 운영 안내 및 준비 / 최종 발표 준비 및 세팅|
 |10:40~10:50|한정용|제안서 작성을 위한 Cloud 아키텍처 설계 도우미|https://github.com/HanJungYong/project_llm_202510.git|
 |10:50~11:00|채송화|AI 기반 장애 대응 상황창 어시스턴트|https://github.com/kazahstansong/project25|
-|11:00~11:10|최인선|WBS 데일리 어시스턴트|https://github.com/Ingtton2/ms_ai|
-|11:10~11:20|김형국|가트너 그룹 기반 신 사업 발굴 AI 도우미|https://github.com/hangkuk727/MVP_Project.git|
+|11:00~11:10|최인선|Antbot Assistant|https://github.com/Ingtton2/ms_ai|
+|11:10~11:20|김형국|신규 사업 추천 및 보고서 작성 도우미|https://github.com/hangkuk727/MVP_Project|
 |11:20~11:30|송은주|공정경쟁 심의처리|https://github.com/song7110/KTDS.git|
 |11:30~13:00|점심 시간|||
 |13:00~13:10|박우영|git_history_gen|https://github.com/dominico966/git_history_gen|
 |13:10~13:20|윤원근|설문-메트릭-평가 프레임워크 통합 생성기|https://github.com/wonkayun-github/ms-ai-mvp.git|
 |13:20~13:30|장세영|Pressm AI|https://github.com/seyoung0916/ms-ai-demo|
 |13:30~13:40|임하나|Trace2UML|https://github.com/ishtar710/mvp|
-|13:40~13:50|김세인|AI 기반 외부·내부 환경 통합 분석 시스템 (PEST·SWOT Analyzer)|https://github.com/ksikjw1031-eng/MS-AI.git|
+|13:40~13:50|김세인|AX Biz Insight - 외부·내부 데이터 기반 AX 전략 인사이트 플랫폼|https://github.com/ksikjw1031-eng/MS-AI.git|
 |13:50~14:00|쉬는 시간|||
 |14:00~14:10|이선동|대규모 급식사이트의 식수 예측 AI서비스|https://github.com/sundong-lee/MS_AI_Edu_Project.git|
 |14:10~14:20|곽영현|AI를 활용한 기술문서 자동 요약 및 오류 분석|https://github.com/yhkwak76-sys/ktds7_001.git|
@@ -36,7 +36,7 @@ MVP
 |16:10~16:20|박세웅|고객 피드백 기반 제품 개선 AI Agent|https://github.com/Woonggss/llm-poc|
 |16:20~16:30|송시온|우리의 PR 설명서|https://github.com/5innim/ktds-ms-ai-project|
 |16:30~16:40|송관동|DocSpace AI|https://github.com/kwandongSong/ktds_ms-ai-dev|
-|16:40~16:50|김은정|PPE(산업현장 인체 보호장비) CHECKER|https://github.com/ejkimm25/PPE_Checker.git|
+|16:40~16:50|김은정|AI기반 PPE 감지 시스템|https://github.com/ejkimm25/PPE_CHECK.git|
 |16:50~17:00|쉬는 시간|||
 |17:00~17:10|오석주|AI 보안/교정 감사 Assistant|https://github.com/oh-seok-ju/ktds_MS-AX|
 |17:10~17:20|조안나|KT Shop Buddy|https://github.com/annamon/ktshop-buddy|
