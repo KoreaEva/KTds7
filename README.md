@@ -40,7 +40,7 @@ MVP
 |16:50~17:00|쉬는 시간|||
 |17:00~17:10|오석주|AI 보안/교정 감사 Assistant|https://github.com/oh-seok-ju/ktds_MS-AX|
 |17:10~17:20|조안나|KT Shop Buddy|https://github.com/annamon/ktshop-buddy|
-|17:20~17:30|윤여인|프로젝트 매니지먼트 지원|https://github.com/yeoinzoy-hub/project_yyi|
+|17:20~17:30|윤여인|국내출장 서비스|https://github.com/yeoinzoy-hub/domestic_travel_service|
 |17:30~17:40|김한길|StarSurvey-AI|https://github.com/Oneway-2/StarSurvey-AI.git|
 |17:40~17:50|임상곤|수신 이메일 분석기|https://github.com/imsanggon7211-bot/imsanggon-mvp|
 |17:50~18:00|정리 및 퇴실|||
